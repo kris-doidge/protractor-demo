@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "protractor": "^5.4.2",
+    "protractor": "^5.4.4",
     "webdriver-manager": "^12.1.5"
   }
 }
